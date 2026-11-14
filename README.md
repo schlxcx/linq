@@ -2,9 +2,9 @@
 
 **A C# console application for learning and practicing Language Integrated Query (LINQ).**
 
-![Language](https://img.shields.io/badge/language-C%23-512BD4)
-![Framework](https://img.shields.io/badge/framework-.NET-512BD4)
-![Type](https://img.shields.io/badge/type-Console%20Application-lightgrey)
+![Language](./readme-img/language.svg)
+![Framework](./readme-img/framework.svg)
+![Type](./readme-img/console.svg)
 
 ## Overview
 
@@ -63,27 +63,27 @@ All students and teachers are stored together in a `List<Person>`.
 
 The project includes exercises covering:
 
-| Category | Examples |
-|---|---|
-| Filtering | Find female persons, students in a specific semester, or teachers above a salary threshold |
-| Sorting | Sort by last name and first name, or by salary |
-| Projection | Extract last names or format full names |
-| Aggregation | Count students and teachers, calculate averages and salary totals |
-| Grouping | Count students per field of study |
-| Conditions | Check whether any or all teachers meet salary requirements |
-| Distinct | Retrieve unique fields of study |
-| Selection | Find the youngest person or the three highest-paid teachers |
+| Category    | Examples                                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------ |
+| Filtering   | Find female persons, students in a specific semester, or teachers above a salary threshold |
+| Sorting     | Sort by last name and first name, or by salary                                             |
+| Projection  | Extract last names or format full names                                                    |
+| Aggregation | Count students and teachers, calculate averages and salary totals                          |
+| Grouping    | Count students per field of study                                                          |
+| Conditions  | Check whether any or all teachers meet salary requirements                                 |
+| Distinct    | Retrieve unique fields of study                                                            |
+| Selection   | Find the youngest person or the three highest-paid teachers                                |
 
 The exercises focus on LINQ methods such as `Where()`, `OfType()`, `Select()`, `OrderBy()`, `ThenBy()`, `GroupBy()`, `Count()`, `Average()`, `Sum()`, `Any()`, `All()`, `Distinct()`, and `Take()`.
 
 ## Technology Stack
 
-| Category | Technology |
-|---|---|
-| Language | C# |
-| Framework | .NET |
-| Application Type | Console Application |
-| Query Technology | LINQ |
+| Category             | Technology                                            |
+| -------------------- | ----------------------------------------------------- |
+| Language             | C#                                                    |
+| Framework            | .NET                                                  |
+| Application Type     | Console Application                                   |
+| Query Technology     | LINQ                                                  |
 | Programming Concepts | Object-Oriented Programming, Inheritance, Collections |
 
 ## Getting Started
